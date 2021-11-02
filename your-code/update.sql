@@ -1,5 +1,9 @@
 USE lab_mysql;
 
+update salespersons
+set store = "Miami"
+where staff_id = 5;
+
 /*
 Pablo Picasso	ppicasso@gmail.com
 Abraham Lincoln	lincoln@us.gov
