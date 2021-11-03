@@ -1,3 +1,3 @@
 USE conces;
 
-DELETE FROM Cars WHERE model ='V60 Cross Country'
+DELETE FROM Cars WHERE idCars = 5
