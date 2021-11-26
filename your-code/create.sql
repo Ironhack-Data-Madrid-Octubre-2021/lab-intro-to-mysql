@@ -1,3 +1,4 @@
+USE lab_mysql;
 Create Table cars(
 id_car  INT PRIMARY KEY,
 VIN VARCHAR(40) UNIQUE,
